@@ -2,7 +2,7 @@
   "name": "buscador-de-palabras",
   "version": "1.0.0",
   "description": "Buscador de Palabras basado en ES6",
-  "homepage": "[https://BalamPerales.github.io/Buscador-de-Palabras](https://BalamPerales.github.io/Buscador-de-Palabras)",
+  "homepage": "https://BalamPerales.github.io/Buscador-de-Palabras",
   "license": "MIT",
   "author": "Balam  ",
   "main": "index.js",
